@@ -1,3 +1,4 @@
+To add a wrapper and clean the simulation
 # p2p-sharing-network-simulation
 
 Simulation of decentralised peer to peer network.  
